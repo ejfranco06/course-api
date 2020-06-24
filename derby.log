@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Wed Jun 24 11:36:32 EDT 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-e6f9-38f7-00000d3b6cf0 
-on database directory memory:/home/kiljaja/Codes/backend/course-api/03badc79-e781-4aed-ab30-c6332e23c721 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
+Wed Jun 24 12:18:37 EDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-e71f-c196-000008ff4f40 
+on database directory memory:/home/kiljaja/Codes/backend/course-api/5dc5dcfd-5e94-42f4-bb62-c2fb1e45b5b9 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
 Loaded from file:/home/kiljaja/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
 java.runtime.version=11.0.7+10
